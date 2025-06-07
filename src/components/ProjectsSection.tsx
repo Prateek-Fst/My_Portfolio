@@ -43,7 +43,7 @@ const projects: ProjectProps[] = [
     duration: "Jan. 2025 - Jan. 2025",
     tech: "NodeJs, ReactJs, MongoDB, ExpressJs",
     githubLink: "https://github.com/Prateek-Fst/E-Commerce_Website",
-    // liveLink: "https://prateek-portfolio12.netlify.app"
+    liveLink: "https://e-commerce-website-t7yn.vercel.app/login"
   },
   {
     title: "Student Database Management System",
